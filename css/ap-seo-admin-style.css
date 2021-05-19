@@ -1,0 +1,11 @@
+#_ap_seo_title, #_ap_seo_description, #_ap_seo_keywords {
+	width: 100%;
+}
+
+#_ap_seo_noindex {
+	margin-left: 10px;
+}
+
+#ap-seo-box .ap-seo-value-div {
+	margin-bottom: 5px;
+}
