@@ -5,6 +5,7 @@ function ap_seo_admin_scripts($hook)
 	wp_enqueue_style("ap-favorites-admin-style", plugins_url("/css/ap-seo-admin-style.css", __FILE__), null, null);
 }
 
+// Генерация html кода
 function ap_seo_meta_tags()
 {
 	$post = get_post();
